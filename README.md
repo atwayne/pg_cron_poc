@@ -1,6 +1,6 @@
 ## Introduction
 
-This is a PoC regarding how to run `pg_cron` based cron jobs within a postgres instance.
+This is a PoC regarding how to run `pg_cron` based cron jobs within a postgres container.
 
 
 ## Get started
